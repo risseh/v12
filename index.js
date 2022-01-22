@@ -54,7 +54,7 @@ isPublic = true
 
 //JANGAN DI GANTI
 fakeyoi = ["KingOfBear Official"]
-api = ["https://login-apikeybear.herokuapp.com/docs"]
+api = ["https://apikey-rizqi.herokuapp.com/"]
 simbol = ["•"]
 const botName = setting.BotName
 const owner = setting.OwnerNumber
